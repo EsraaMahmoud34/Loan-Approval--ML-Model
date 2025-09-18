@@ -45,7 +45,8 @@ Trained multiple models using **GridSearchCV** to tune hyperparameters:
 (Add your confusion matrix image here)  
 ```
 
-![Confusion Matrix](<img width="519" height="413" alt="image" src="https://github.com/user-attachments/assets/1d93ee28-63c6-42ce-b0a9-0dba31ebdafd" />
+![Confusion Matrix](<img width="519" height="413" alt="image" src="https://github.com/user-attachments/assets/e5a3eec1-b58b-4454-9380-ae9d0f51cb3d" />
+
 )
 
 ## 🚀 How to Run

@@ -42,12 +42,9 @@ Trained multiple models using **GridSearchCV** to tune hyperparameters:
   - F1 Score: **99%**
 
 📊 **Confusion Matrix:**  
-(Add your confusion matrix image here)  
+(<img width="519" height="413" alt="image" src="https://github.com/user-attachments/assets/b4324f96-081a-4492-b721-c47e83b800d8" />
+)  
 ```
-
-![Confusion Matrix](<img width="519" height="413" alt="image" src="https://github.com/user-attachments/assets/e5a3eec1-b58b-4454-9380-ae9d0f51cb3d" />
-
-)
 
 ## 🚀 How to Run
 

@@ -50,7 +50,7 @@ Trained multiple models using **GridSearchCV** to tune hyperparameters:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/EsraaMahmoud34/Loan-Approval--ML-Model.git
 cd loan-approval-prediction
 ````
 
